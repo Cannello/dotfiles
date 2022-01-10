@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cannelle.hennuyer@gmail.com
+	name = cannelle hennuyer
